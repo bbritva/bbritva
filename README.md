@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbritva
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C/C++ programminng in 21-school.ru
+- 🌱 I’m currently learning C/C++ programminng in 42 Paris
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: amgboris@ya.ru, t.me/brs_brtv
 
