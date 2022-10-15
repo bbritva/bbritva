@@ -12,8 +12,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bbritva&theme=github-light)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbritva)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Footer
-
 - 📫 How to reach me: amgboris@ya.ru, t.me/brs_brtv
 
 <!---
