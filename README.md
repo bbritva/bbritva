@@ -4,7 +4,7 @@
   <span style="font-size: 75%; font-weight: normal;"><b>Ecole 42 student</b></span>
 </h1>
 
-[![grvelva's 42 stats](https://badge42.vercel.app/api/v2/cl8osjwbn00110gmmauqfnha0/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+[![grvelva's 42 stats](https://badge42.vercel.app/api/v2/cl8osjwbn00110gmmauqfnha0/stats?cursusId=21&coalitionId=48)](https://profile.intra.42.fr/users/grvelva)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bbritva&theme=github-light)](https://git.io/streak-stats)
