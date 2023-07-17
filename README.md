@@ -5,7 +5,6 @@
 </h1>
 
 [![grvelva's 42 stats](https://badge42.vercel.app/api/v2/cl8osjwbn00110gmmauqfnha0/stats?cursusId=21&coalitionId=48)](https://profile.intra.42.fr/users/grvelva)
-<img src="https://camo.githubusercontent.com/84d09ef085a0819304541b0a9dc796fd45ada44d5e3e05d24eda7820b4dc2247/68747470733a2f2f626164676534322e76657263656c2e6170702f6170692f76322f636c386f736a77626e3030313130676d6d617571666e6861302f73746174733f63757273757349643d323126636f616c6974696f6e49643d3438" alt="grvelva's 42 stats" data-canonical-src="https://badge42.vercel.app/api/v2/cl8osjwbn00110gmmauqfnha0/stats?cursusId=21&amp;coalitionId=48" style="max-width: 100%;">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bbritva&theme=github-light)](https://git.io/streak-stats)
 
